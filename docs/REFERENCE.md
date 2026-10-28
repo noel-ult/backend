@@ -1,7 +1,6 @@
 # backend source reference
 
-
-Source reviewed: [`d07363beb2d7`](https://github.com/noel-ult/backend/commit/d07363beb2d7993fd23207d58feabb273b7fbe36).
+Source reviewed: [`80beed4a8da4`](https://github.com/noel-ult/backend/commit/80beed4a8da4cfa75017405da787c9c17e56ab05).
 
 This reference records the checked-in source, scripts, configuration names, and route declarations. It is a navigation aid; service availability and successful test execution require separate verification.
 
@@ -48,6 +47,14 @@ Paths are **as declared in each source file**. Router/blueprint mount prefixes f
 | [Casestudy2/app.js](../Casestudy2/app.js) | DELETE | `/api/employeelist/:id` | `` |
 | [Casestudy2/app.js](../Casestudy2/app.js) | GET | `/debug` | `` |
 | [Casestudy2/app.js](../Casestudy2/app.js) | GET | `/*` | `` |
+
+## Existing documentation
+
+Historical plans/reports describe their own revision; use current source when they disagree.
+
+- [CONTRIBUTING.md](../CONTRIBUTING.md)
+- [README.md](../README.md)
+- [docs/REFERENCE.md](../docs/REFERENCE.md)
 
 ## Source and configuration map
 
